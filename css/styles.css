@@ -31,6 +31,7 @@
 	text-transform: uppercase;
 	font-size: 13px;
 	color: #707070;
+    font-family: 'Montserrat', sans-serif;
 }
 .logo {
 	vertical-align: center;
@@ -89,4 +90,28 @@
 	padding-left: 90px;
 	margin-bottom: 75px;
 	font-family: 'Montserrat', sans-serif;
+}
+/*footer*/
+.footer {
+	display: flex;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 50px;
+}
+.foot {
+	display: flex;
+	justify-content: space-between;
+}
+.ft-ul {
+	display: flex;
+	justify-content: space-around;
+	text-transform: uppercase;
+	margin-left: 49px;
+}
+.ft-li {
+	margin-right: 30px;
+	font-size: 12px;
+}
+.iconsft {
+	display: flex;
+	justify-content: space-between;
 }
