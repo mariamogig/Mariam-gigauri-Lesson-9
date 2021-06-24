@@ -1,0 +1,41 @@
+/*header*/
+.header {
+	display: flex;
+	justify-content: space-around;
+	margin: 35px auto;
+}
+.navigation {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	font-size: 13px;
+	color: #707070;
+}
+.nav-ul {
+	display: flex;
+	justify-content: space-around;
+	text-transform: uppercase;
+}
+.nav-li {
+	margin-left: 40px;
+}
+.burgerbar {
+	display: none;
+}
+.follow {
+	margin-right: 71px;
+	text-transform: uppercase;
+	font-size: 13px;
+	color: #707070;
+}
+.logo {
+	vertical-align: center;
+	color: black;
+}
+.icons {
+	display: flex;
+}
+.fab {
+	margin-left: 7px;
+	font-size: 13px;
+}
