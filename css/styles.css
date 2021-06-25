@@ -54,14 +54,14 @@
 	background-color: #202126;
 	color: white;
 	margin-bottom: 44px;
+	margin-right: 10px;
 	border-radius: 15px;
 }
 .blocks {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
-	padding-left: 70px;
-	padding-right: 70px;
+	justify-content: flex-start;
+    padding-left: 80px;
 }
 .text {
 	max-width: 230px;
@@ -122,10 +122,7 @@
     font-size: 12px;
     padding-top: 30px;
  }
- .block1:nth-child(9) {
- 	margin-bottom: 50px;
- }
- .block1:hover {
+  .block1:hover {
  	background-color: #D7BE69;
  	color: black;
 }
