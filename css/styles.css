@@ -135,6 +135,6 @@
  	background-color: #D7BE69;
  	color: black;
 }
-  .text:hover {
+  .block1:hover .text {
  	color: black;
 }
