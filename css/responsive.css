@@ -1,0 +1,28 @@
+@media (max-width: 1000px) {
+	.icons {
+		display: none;
+	}
+	.burgerbar {
+		display: block;
+		padding-right: 80px;
+	}
+}
+@media (max-width: 700px) {
+	.nav-ul {
+		display: none;
+	}
+	.ft-ul {
+		display: none;
+	}
+	.block1 {
+		margin: 0 auto;
+		margin-bottom: 10px;
+	}
+	.iconsft {
+		margin: 0 auto;
+	}
+	.serv {
+		text-align: center;
+		margin: 0 auto 20px;
+	}
+}
