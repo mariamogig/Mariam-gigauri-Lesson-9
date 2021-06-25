@@ -16,7 +16,7 @@
     	padding-right: 80px;
     }
 }
-@media (max-width: 700px) {
+@media (max-width: 725px) {
 	.nav-ul {
 		display: none;
 	}
@@ -26,6 +26,7 @@
 	.block1 {
 		margin: 0 auto;
 		margin-bottom: 10px;
+		width: 100%;
 	}
 	.iconsft {
 		margin: 0 auto;

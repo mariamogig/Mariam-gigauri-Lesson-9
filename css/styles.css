@@ -54,7 +54,7 @@
 	background-color: #202126;
 	color: white;
 	margin-bottom: 44px;
-	margin-right: 10px;
+	margin-right: 20px;
 	border-radius: 15px;
 }
 .blocks {
@@ -69,6 +69,7 @@
 	margin-top: 27px;
 	margin-bottom: 55px;
 	margin-left: 10px;
+	margin-right: 10px;
 	color: #D5D5D5;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -76,11 +77,13 @@
 	margin-top: 29px;
 	margin-left: 10px;
 	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
 }
 .less {
 	margin-bottom: 29px;
 	margin-left: 10px;
 	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
 }
 .serv {
 	text-transform: uppercase;
@@ -122,7 +125,13 @@
     font-size: 12px;
     padding-top: 30px;
  }
+
+
+ /*hover*/
   .block1:hover {
  	background-color: #D7BE69;
+ 	color: black;
+}
+  .text:hover {
  	color: black;
 }
