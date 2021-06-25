@@ -49,6 +49,8 @@
 
 /*section*/
 .block1 {
+	height: 326px;
+	flex-direction: column;
 	max-width: 272px;
 	width: 100%;
 	background-color: #202126;
@@ -66,6 +68,7 @@
 .text {
 	max-width: 230px;
 	width: 100%;
+	font-size: 14px;
 	margin-top: 27px;
 	margin-bottom: 55px;
 	margin-left: 10px;

@@ -35,4 +35,8 @@
 		text-align: center;
 		margin: 0 auto 20px;
 	}
+	.blocks {
+		padding-right: 0;
+		padding-left: 0;
+	}
 }
